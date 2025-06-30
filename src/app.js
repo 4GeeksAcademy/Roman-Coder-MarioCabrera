@@ -12,10 +12,6 @@ window.onload = function() {
 const RomanCoder = (num) => {
 let resultado = ""
 const valoresRomanos = [
-  
-  [1000, 'M'],
-  [1000, 'M'],
-  [1000, 'M'],
   [1000, 'M'],
   [900, 'CM'],
   [500, 'D'],
