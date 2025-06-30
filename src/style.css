@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fbackground%2F20230617%2Foriginal%2Fpngtree-green-wall-background-and-golden-column-pillars-in-a-spacious-empty-picture-image_3701852.jpg&f=1&nofb=1&ipt=2800cf0ccd30eeefc10d2f2f266b234acdc67ca1b84dc97ebfdbc439cacf3479);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button:hover{
+    background-color: lightgreen;
 }
